@@ -1,0 +1,196 @@
+{
+    "waypoints": [
+      {
+        "point": {
+          "latitude": 43.787219,
+          "longitude": -79.258261
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.787718,
+          "longitude": -79.26016
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.652417,
+          "longitude": -79.343945
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.811175,
+          "longitude": -79.534691
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.767059,
+          "longitude": -79.534004
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.749453,
+          "longitude": -79.555633
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.83102,
+          "longitude": -79.096104
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.887161,
+          "longitude": -79.202714
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.902995,
+          "longitude": -78.840852
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.672497,
+          "longitude": -79.698472
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.763535,
+          "longitude": -79.193275
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.7851,
+          "longitude": -79.278724
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.779037,
+          "longitude": -79.296936
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.787243,
+          "longitude": -79.289955
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.78518,
+          "longitude": -79.27874
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.772812,
+          "longitude": -79.273208
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.76574,
+          "longitude": -79.259942
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.753807,
+          "longitude": -79.253269
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.750701,
+          "longitude": -79.243522
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.738939,
+          "longitude": -79.238635
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.743069,
+          "longitude": -79.219152
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.737114,
+          "longitude": -79.216524
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.740672,
+          "longitude": -79.208971
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.749438,
+          "longitude": -79.205909
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.753248,
+          "longitude": -79.180024
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.768092,
+          "longitude": -79.175366
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.772728,
+          "longitude": -79.166421
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.768176,
+          "longitude": -79.158938
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.786568,
+          "longitude": -79.154301
+        }
+      },
+      {
+        "point": {
+          "latitude": 43.785974,
+          "longitude": -79.259179
+        }
+      }
+    ],
+    "options": {
+        "travelMode": "car",
+        "vehicleLength": 10,
+        "vehicleWidth": 3,
+        "vehicleHeight": 7,
+        "vehicleCommercial": false,
+        "outputExtensions": [
+            "travelTimes",
+            "routeLengths"
+        ]
+    }
+  }
+  

@@ -1,0 +1,83 @@
+{
+    "waypoints": [
+        {
+            "point": {
+                "latitude": 43.787219,
+                "longitude": -79.258261
+            }
+        },
+        {
+            "point": {
+                "latitude": 43.787718,
+                "longitude": -79.260160
+            }
+        },
+        {
+            "point": {
+                "latitude": 43.652417,
+                "longitude": -79.343945
+            }
+        },
+        {
+            "point": {
+                "latitude": 43.811175,
+                "longitude": -79.534691
+            }
+        },
+        {
+            "point": {
+                "latitude": 43.767059,
+                "longitude": -79.534004
+            }
+        },
+        {
+            "point": {
+                "latitude": 43.749453,
+                "longitude": -79.555633
+            }
+        },
+        {
+            "point": {
+                "latitude": 43.831020,
+                "longitude": -79.096104
+            }
+        },
+        {
+            "point": {
+                "latitude": 43.887161,
+                "longitude": -79.202714
+            }
+        },
+        {
+            "point": {
+                "latitude": 43.902995,
+                "longitude": -78.840852
+            }
+        },
+        {
+            "point": {
+                "latitude": 43.672497,
+                "longitude": -79.698472
+            }
+        },
+        {
+            "point": {
+                "latitude": 43.763535,
+                "longitude": -79.193275
+            }
+        },
+        {
+            "point": {
+                "latitude": 43.785974,
+                "longitude": -79.259179
+            }
+        }
+    ],
+    "options": {
+        "travelMode": "car",
+        "outputExtensions": [
+            "travelTimes",
+            "routeLengths"
+        ]
+    }
+}
